@@ -46,7 +46,7 @@ dependencies {
     // Material Tutorial views
     implementation 'com.getkeepsafe.taptargetview:taptargetview:1.13.3'
     // Charts
-    implementation 'com.github.PhilJay:MPAndroidChart:v2.2.5'
+    implementation 'com.github.PhilJay:MPAndroidChart:2.2.4'
     // 3D engine
     implementation 'org.rajawali3d:rajawali:1.0.325@aar'
     implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.8.0"))
