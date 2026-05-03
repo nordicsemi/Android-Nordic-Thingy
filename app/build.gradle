@@ -44,7 +44,7 @@ dependencies {
     // Scanner Compat library
     implementation 'no.nordicsemi.android.support.v18:scanner:1.6.0'
     // Material Tutorial views
-    implementation 'com.getkeepsafe.taptargetview:taptargetview:1.13.3'
+    implementation 'com.getkeepsafe.taptargetview:taptargetview:1.15.0'
     // Charts
     implementation 'com.github.PhilJay:MPAndroidChart:v2.2.5'
     // 3D engine
